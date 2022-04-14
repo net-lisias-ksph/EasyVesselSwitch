@@ -1,5 +1,7 @@
 # Easy Vessel Switch (EVS) :: Change Log
 
+* 2016-1012: 1.1.1 (IgorZ) for KSP 1.2
+	+ KSP 1.2 support
 * 2016-0921: 1.0.3 (IgorZ) for KSP ['1.1.3', '1.1.2']
 	+ 1.0.3 (September 20th, 2016)
 		- [Enhancement] Don't act if UI or vessel switch input is locked.
