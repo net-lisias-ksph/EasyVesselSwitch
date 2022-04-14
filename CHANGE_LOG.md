@@ -1,5 +1,8 @@
 # Easy Vessel Switch (EVS) :: Change Log
 
+* 2018-0718: 1.8 (IgorZ) for KSP ['1.4.3', '1.4.2', '1.4.1', '1.4.0']
+	+ 1.8 (July 11th, 2018)
+		- [Change] Upgrade KSPDev Utils to 0.37.0. Stability fix.
 * 2018-0708: 1.7 (IgorZ) for KSP ['1.4.3', '1.4.2', '1.4.1', '1.4.0']
 	+ This is not a mod release__. In order to install the mod into your game, read the instructions on the [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/141180-13-easy-vessel-switch-evs-v130).
 	+ 1.7 (July 7th, 2018)
