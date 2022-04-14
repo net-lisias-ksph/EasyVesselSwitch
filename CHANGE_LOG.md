@@ -1,5 +1,8 @@
 # Easy Vessel Switch (EVS) :: Change Log
 
+* 2018-1226: 1.10 (IgorZ) for KSP 1.6.0
+	+ 1.10 (December 25th, 2018)
+		- [Change] KSP 1.6 compatibility.
 * 2018-1017: 1.9 (IgorZ) for KSP 1.5
 	+ 1.9 (October 16th, 2018)
 		- [Change] KSP 1.5 compatibility.
