@@ -1,5 +1,8 @@
 # Easy Vessel Switch (EVS) :: Change Log
 
+* 2018-1017: 1.9 (IgorZ) for KSP 1.5
+	+ 1.9 (October 16th, 2018)
+		- [Change] KSP 1.5 compatibility.
 * 2018-0718: 1.8 (IgorZ) for KSP ['1.4.3', '1.4.2', '1.4.1', '1.4.0']
 	+ 1.8 (July 11th, 2018)
 		- [Change] Upgrade KSPDev Utils to 0.37.0. Stability fix.
