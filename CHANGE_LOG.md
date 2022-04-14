@@ -1,5 +1,10 @@
 # Easy Vessel Switch (EVS) :: Change Log
 
+* 2018-0309: 1.6 (IgorZ) for KSP ['1.4.2', '1.4.1', '1.4.0']
+	+ This is not a mod release__. In order to install the mod into your game, read the instructions on the [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/141180-13-easy-vessel-switch-evs-v130).
+	+ 1.6 (March 7th, 2018)
+			- [Change] KSP 1.4.0 compatibility.
+			- [Change] Completely disable the highlighting logic if the alpha component of the highlight color is 0.
 * 2017-0920: 1.5 (IgorZ) for KSP 1.3
 	+ This is not a mod release__. In order to install the mod into your game, read the instructions on the [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/141180-13-easy-vessel-switch-evs-v130).
 	+ 1.5 (September 19th, 2017)
