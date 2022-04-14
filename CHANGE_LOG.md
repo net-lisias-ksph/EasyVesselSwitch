@@ -1,5 +1,9 @@
 # Easy Vessel Switch (EVS) :: Change Log
 
+* 2017-0526: 1.3.0 (IgorZ) for KSP 1.3
+	+ This is not a mod release__. In order to install the mod into your game, read the instructions on the [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/141180-13-easy-vessel-switch-evs-v130).
+	+ Changes:
+			- KSP 1.3 support.
 * 2016-1214: 1.2.0 (IgorZ) for KSP ['1.2.2', '1.2.1', '1.2']
 	+ 1.2.0 (December 13th, 2016)
 		- [Enhancement #3] Allow more modifier keys assigned.
