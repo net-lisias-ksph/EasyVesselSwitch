@@ -1,5 +1,13 @@
 # Easy Vessel Switch (EVS) :: Change Log
 
+* 2021-0120: 2.2 (IgorZ) for KSP 1.11.0
+	+ 2.2 (January 19th, 2021)
+		- [Change] Switch to KSP 1.11. There is no backwards compatibility!
+		- [Change] Drop the old `MiniAVC` in favor of `MiniAVC-V2`.
+		- [Enhancement] Some fixes in French localization.
+		- [Fix #33] Allow to disable the vessel overlay.
+		- [Fix #34] Conflict with stock building system.
+		- [Fix #35] Expose stabilization mode in API.
 * 2020-0303: 2.1 (IgorZ) for KSP ['1.10', '1.9.1', '1.9']
 	+ 2.1 (March, 3rd, 2020)
 		- [Change] Switch to C# compiler v6.0.
