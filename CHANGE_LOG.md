@@ -1,5 +1,9 @@
 # Easy Vessel Switch (EVS) :: Change Log
 
+* 2016-1214: 1.2.0 (IgorZ) for KSP ['1.2.2', '1.2.1', '1.2']
+	+ 1.2.0 (December 13th, 2016)
+		- [Enhancement #3] Allow more modifier keys assigned.
+		- [Enhancement #6] Allow setting focus on a specific part. By deafult it's key `O`.
 * 2016-1012: 1.1.1 (IgorZ) for KSP 1.2
 	+ KSP 1.2 support
 * 2016-0921: 1.0.3 (IgorZ) for KSP ['1.1.3', '1.1.2']
