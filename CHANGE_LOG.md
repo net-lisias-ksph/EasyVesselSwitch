@@ -1,5 +1,11 @@
 # Easy Vessel Switch (EVS) :: Change Log
 
+* 2019-1024: 2.0 (IgorZ) for KSP 1.8
+	+ 2.0 (October 23rd, 2019)
+		- [Change] KSP 1.8 compatibility. __WARNING__ Mod versions of `v2.0` and higher are not compatible to KSP versions prior to `1.8`!
+		- [Change] Upgrade to `C# .Net 4.5`.
+		- [Enhancement] Add Chinese Simplified localization.
+		- [Enhancement] Add French localization. And fixing some doc strings.
 * 2019-1023: 1.11 (IgorZ) for KSP 1.7
 	+ 1.11 (April 23rd, 2019)
 		- [Change] KSP 1.7 compatibility.
