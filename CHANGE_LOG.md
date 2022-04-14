@@ -1,5 +1,11 @@
 # Easy Vessel Switch (EVS) :: Change Log
 
+* 2018-0708: 1.7 (IgorZ) for KSP ['1.4.3', '1.4.2', '1.4.1', '1.4.0']
+	+ This is not a mod release__. In order to install the mod into your game, read the instructions on the [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/141180-13-easy-vessel-switch-evs-v130).
+	+ 1.7 (July 7th, 2018)
+			- [Change] Upgrade KSPDev Utils to 0.36.0.
+			- [Enhancement] Add Italian localization (IT_it).
+			- [Enhancement] Add Espaniol localization (ES_es).
 * 2018-0309: 1.6 (IgorZ) for KSP ['1.4.2', '1.4.1', '1.4.0']
 	+ This is not a mod release__. In order to install the mod into your game, read the instructions on the [forum](http://forum.kerbalspaceprogram.com/index.php?/topic/141180-13-easy-vessel-switch-evs-v130).
 	+ 1.6 (March 7th, 2018)
